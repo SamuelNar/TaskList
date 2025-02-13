@@ -53,9 +53,9 @@ Iniciar aplicacion
     update [ID] [estado]
    ```
    **Estados disponibles**
-    1.pending
-    2.in-process
-    3.done
+     1.pending
+     2.in-process
+     3.done
 **Ejemplo**
 ```bash
   update 1234567890 "in-progress"
